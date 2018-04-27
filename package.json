@@ -1,0 +1,27 @@
+{
+  "name": "mod-17.3-expressjs-json-crud",
+  "version": "0.3.0",
+  "description": "ExpressJS installation",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mnap00/mod-17.3-expressjs-json-crud.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "mnap00",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mnap00/mod-17.3-expressjs-json-crud/issues"
+  },
+  "homepage": "https://github.com/mnap00/mod-17.3-expressjs-json-crud#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3"
+  }
+}
